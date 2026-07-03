@@ -128,19 +128,20 @@ http://localhost:8501
 
 ### Dataset Analysis
 
-_Add a screenshot here_
+![Dataset Analysis](screenshots/eda.png.png)
 
 ### AI Insights
 
-_Add a screenshot here_
+![AI Insights](screenshots/insights.png.png)
 
 ### Chat Interface
 
-_Add a screenshot here_
+![Chat Inference](screenshots/upload.png.png)
 
 ---
 
 ## 🔮 Future Enhancements
+![Future Enhancements](screenshots/enhancement.png.png)
 
 - Support more file formats
 - Cloud deployment
