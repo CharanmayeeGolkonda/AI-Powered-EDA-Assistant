@@ -124,7 +124,7 @@ http://localhost:8501
 
 ### Home Page
 
-_Add a screenshot here_
+![Home Page](screenshots/home.png.png)
 
 ### Dataset Analysis
 
